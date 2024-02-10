@@ -1,3 +1,16 @@
 body{
     background-color: bisque;
 }
+
+div{
+    display: flex;
+
+}
+
+.img-1{
+    width: 40%;
+}
+
+.img-2{
+    width: 60%;
+}
